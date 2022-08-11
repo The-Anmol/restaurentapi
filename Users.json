@@ -1,0 +1,15 @@
+const Users = [
+    {
+        firstName: "Anmol",
+        lastName: "Anmol",
+        email: "ainsa2279@gmail.com",
+        password: "Password",
+    },
+    {
+        firstName: "Sandeep",
+        lastName: "Sandeep",
+        email: "Sandeep@gmail.com",
+        password: "Password",
+    },
+]
+export default Users;
